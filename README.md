@@ -1,7 +1,7 @@
 # zsp
 A publicly sourced zombie survival plan. Not just for the few, but for the many.
 
-# File structure #
+# Repo structure #
 zsp
 | Section | Description |
 | ---- | ---- |
