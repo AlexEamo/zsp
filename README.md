@@ -6,6 +6,5 @@ zsp
 | Section | Description |
 | ---- | ---- |
 | Day 0 | What do you need to know when the time comes |
-| Food | Food sources, foraging and farming |
+| Reusable structure | A section for commonly reusable components for future sections |
 | Resources | Information sources that could be used to populate this Git |
-| Self Defense | Information on Self Defense techniques that could be used against zombie hordes|
