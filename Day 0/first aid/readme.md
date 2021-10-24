@@ -1,29 +1,29 @@
-# Bites #
+## Bites ##
 
 
 
-# Broken bones #
+## Broken bones ##
 
 
 
-# Car Crashes #
+## Car Crashes ##
 
 
 
-# Crushing #
+## Crushing ##
 
 
 
-# Cuts #
+## Cuts ##
 
 
 
-# Scratches #
+## Scratches ##
 
 
 
-# Sprains #
+## Sprains ##
 
 
 
-# Shock #
+## Shock ##
