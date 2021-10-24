@@ -1,6 +1,8 @@
 # zsp
 A publicly sourced zombie survival plan. Not just for the few, but for the many.
 
+🔥 Please add comments to the page https://github.com/AlexEamo/zsp/issues/2 to make suggestions about the MVP
+
 # Repo structure #
 zsp
 | Section | Description |
