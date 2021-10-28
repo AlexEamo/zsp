@@ -7,3 +7,7 @@ A list of self defence techniquest that could be employed when defending yoursel
 
 
 ## Gun safety
+
+
+## Government advice
+https://www.psni.police.uk/advice_information/protecting-yourself/attacks/
