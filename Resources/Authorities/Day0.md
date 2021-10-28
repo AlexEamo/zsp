@@ -237,7 +237,7 @@
 |Ukraine                                        | UA   |                                       | 
 |United Arab Emirates                           | AE   |                                       | 
 |United Kingdom                                 | GB   |                                       | 
-|United States                                  | US   |                                       | 
+|United States                                  | US   | https://emergency.cdc.gov             | 
 |United States Minor Outlying Islands           | UM   |                                       | 
 |Uruguay                                        | UY   |                                       | 
 |Uzbekistan                                     | UZ   |                                       | 

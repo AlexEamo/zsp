@@ -1,29 +1,34 @@
-## Bites ##
+### Bites
 
 
 
-## Broken bones ##
+### Broken bones
 
 
 
-## Car Crashes ##
+### Car Crashes
 
 
 
-## Crushing ##
+### Crushing
 
 
 
-## Cuts ##
+### Cuts
 
 
 
-## Scratches ##
+### Scratches
 
 
 
-## Sprains ##
+### Sprains
 
 
 
-## Shock ##
+### Shock
+
+
+
+### General
+https://emergency.cdc.gov/planning/index.asp?CDC_AA_refVal=https%3A%2F%2Femergency.cdc.gov%2Fplanners-responders.asp
